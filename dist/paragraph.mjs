@@ -125,11 +125,7 @@ class a {
    * Sanitizer rules
    */
   static get sanitize() {
-    return {
-      text: {
-        br: !0
-      }
-    };
+    return true;
   }
   /**
    * Returns true to notify the core that read-only mode is supported
