@@ -3,7 +3,7 @@ const s = '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="
 /**
  * Base Paragraph Block for the Editor.js.
  * Represents a regular text block
- *
+ * @forked by Ebiblo
  * @author CodeX (team@codex.so)
  * @copyright CodeX 2018
  * @license The MIT License (MIT)
