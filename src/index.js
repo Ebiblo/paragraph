@@ -196,11 +196,7 @@ export default class Paragraph {
    * Sanitizer rules
    */
   static get sanitize() {
-    return {
-      text: {
-        br: true,
-      },
-    };
+    return true;
   }
 
   /**
